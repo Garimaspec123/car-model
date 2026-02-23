@@ -1,3 +1,5 @@
+# Car price specification model
+
 This project focuses on predicting car prices using Machine Learning techniques. The model analyzes different features such as car brand, fuel type, transmission, mileage, and engine specifications to estimate the price of a car accurately.
 The project is implemented using Python and popular data science libraries. The dataset is preprocessed, cleaned, and transformed before training the model. Different machine learning algorithms are applied to achieve better prediction accuracy.
 # Technologies Used
